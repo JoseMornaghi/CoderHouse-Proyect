@@ -1,0 +1,10 @@
+En Septiembre 2021 con @barto @lucasarielsaavedra @juanpascual decidimos anotarnos en el curso de Data Science en CoderHouse.
+Era una buena oportunidad, online, entre amigos y con un proyecto final obligatorio para cerrar el curso y cementar lo que aprendieramos.
+7 meses, con 2 a 4 clases semanales, y varias horas para hacer los trabajos, idear nuestro proyecto y materializarlo. 
+El curso, mayoritariamente en Python, se enfocaba en procesamiento de datos, data wrangling, y modelos de machine learning. 
+Decidimos hacer un proyecto con una cuota humana, biometrica. Agarramos una base de datos acorde, y pensamos en crear un modelo para predecir Strokes (ACV).
+Un elemento super critico para una persona en contacto constante con datos y estadistica, es entender cuanto podemos extraer de nuestros dataset. Que elementos nos brindan informacion, y cuanto del material que tenemos, realmente sirve para nuestra idea y fin.
+Mas alla de los modelos de ML que existen, hay que poder tener el criterio suficiente para entender sus usos adecuados, como ajustar los parametros, y lograr que esas cajas negras poco comprendidas, nos devuelvan algo cohesivo, con sentido.
+El curso, con la energia dispuesta, te brinda eso. Una mirada un poco mas profunda del tema.
+Nos tomamos el tiempo de ser coherentes, explicar cada paso, cada modelo.  El resultado, y el aprendizaje, nos parecio super positivo. 
+Fueron varios meses, pero lo valieron.
